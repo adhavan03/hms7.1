@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T14:56:48 IST" name="Default suite" finished-at="2021-06-21T14:58:04 IST" duration-ms="75856">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T14:56:48 IST" name="Default test" finished-at="2021-06-21T14:58:04 IST" duration-ms="75856">
+      <class name="dataprovider.loginpage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:56:48 IST" name="setup" finished-at="2021-06-21T14:56:53 IST" duration-ms="5459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:57:04 IST" name="test" data-provider="getdata" finished-at="2021-06-21T14:57:45 IST" duration-ms="41186" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[triotend@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[triotend]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:57:45 IST" name="test" data-provider="getdata" finished-at="2021-06-21T14:57:51 IST" duration-ms="5766" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[triotend@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[triotend]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:57:51 IST" name="test" data-provider="getdata" finished-at="2021-06-21T14:57:57 IST" duration-ms="6374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[triotend@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[triotend]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:57:57 IST" name="test" data-provider="getdata" finished-at="2021-06-21T14:58:02 IST" duration-ms="5172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[triotend@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[triotend]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:dataprovider.loginpage@72ccd81a]" started-at="2021-06-21T14:58:02 IST" name="teardown" finished-at="2021-06-21T14:58:04 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- dataprovider.loginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
