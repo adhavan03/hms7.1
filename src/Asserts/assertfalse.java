@@ -16,7 +16,7 @@ public class assertfalse {
 		  WebElement logo=driver.findElement(By.xpath("//i[@class='fa fa-key']"));
 		  boolean i=logo.isDisplayed();
 		  Assert.assertFalse(i,"aady");
-		  driver.findElement(By.xpath("//*[@id=\"email\"]")).sendKeys("test");
+		  driver.findElement(By.xpath("//*[@id=\"email\"]")).sendKeys("training");
   }
   
 }
